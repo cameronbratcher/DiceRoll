@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 #Cameron Bratcher 2015
 #Dice Rolling Simulator
 
